@@ -1,0 +1,37 @@
+header {  }
+.header { height: 297px; background: url('../img/header.jpg') top center no-repeat; }
+.logo { margin-top:20px; text-align: center; height: 227px; }
+.header-right { text-align: right; padding:10px 30px 0 0; }
+.brand-name { background: rgba(0, 0, 0, .5); height: 50px; line-height: 50px; font-weight: bolder; color: #fff; font-size: 28px; text-align: center; font-family: 'Century Gothic', serif; text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5); }
+
+.nav-list { text-transform: uppercase; }
+.nav-list .active { background: #428bca; }
+.nav-list .active a { color: #fff; }
+.nav-list .active a:hover { color: #428bca; }
+
+.panel-caption { margin: 0 0 20px 0; font-size: 18px; text-transform: uppercase; padding: 0 0 10px 0; background: url("../img/block-line.png") bottom left no-repeat; }
+.panel-caption a { display: inline-block; float: right; text-transform: lowercase; font-size: 13px; }
+
+.well-caption { text-transform: uppercase; font-weight: bolder; font-size: 15px; margin: 0 0 5px 0; text-shadow: 0 1px 0 rgba(255, 255, 255, 1); }
+
+footer { border-top: 2px solid #333; padding-top: 20px; }
+.partners {  }
+
+blockquote p { margin-bottom: 8px; font-size: 15px; }
+
+
+@media (max-width: 700px){
+	.header { height: 210px; }
+	.brand-name { font-size: 16px; }
+	.logo { height: 140px; }
+	.logo img { width: 120px; height: 120px; }
+	.header-right img { height: 90px; width:42px; }
+}
+
+@media (max-width: 420px){
+	.header { height: auto; background: none; }
+	.logo { display: none; }
+	.header-left { display: none; }
+	.header-right { display: none; }
+	.brand-name { font-size: 11px; }
+}

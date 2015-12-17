@@ -1,0 +1,166 @@
+{
+ "bookProperties": {
+  "pages": {
+   "elements": {
+    "page": [
+     {
+      "links": {},
+      "id": {
+       "value": "1"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "2"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "3"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "4"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "5"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "6"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "7"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "8"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "9"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "10"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "11"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "12"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "13"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "14"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "15"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "16"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "17"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "18"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "19"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "20"
+      }
+     }]
+   },
+   "defaultValue": {
+    "BGColor": {
+     "value": "13421772"
+    },
+    "width": {
+     "value": "566"
+    },
+    "height": {
+     "value": "800"
+    }
+   }
+  },
+  "bookName": {
+   "value": "\u041e\u041e\u041e \"\u0422\u0435\u0445\u043d\u043e\u0441\u0442\u0440\u043e\u0439\""
+  },
+  "bookLang": {
+   "value": "en"
+  },
+  "bookHeight": {
+   "value": "800"
+  },
+  "slideshowVisible": {
+   "value": "true"
+  },
+  "tocVisible": {
+   "value": "false"
+  },
+  "bookWidth": {
+   "value": "566"
+  },
+  "searchIndex": {
+   "ext": "other\/search.txt"
+  },
+  "bookmarksVisible": {
+   "value": "true"
+  },
+  "bookId": {
+   "value": "{2C640C57-FD2C-4DAE-BDCE-F640C5616A77}"
+  },
+  "bookBG": {
+   "src": "other\/background.jpg",
+   "width": "566",
+   "height": "800",
+   "scale": "scale",
+   "color": "13421772"
+  }
+ },
+ "tableOfContent": {
+  "tocData": {
+   "pageNumber": {
+    "value": "1"
+   },
+   "children": {},
+   "title": {
+    "value": ""
+   }
+  }
+ }
+}
